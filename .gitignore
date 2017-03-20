@@ -22,4 +22,4 @@ wikipedia/.DS_Store
 wikipedia/target/
 wikipedia/metastore_db/
 wikipedia/derby.log
-wikipedia/src/main/resources/
+wikipedia/src/main/resources/wikipedia/*
