@@ -15,3 +15,11 @@ project/plugins/project/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+.DS_Store
+wikipedia/target
+wikipedia/.idea/
+wikipedia/.DS_Store
+wikipedia/target/
+wikipedia/metastore_db/
+wikipedia/derby.log
+wikipedia/src/main/resources/
